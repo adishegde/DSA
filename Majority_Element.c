@@ -4,7 +4,7 @@ problem. */
 
 #include<stdio.h>
 #include<stdlib.h>
-
+#Aditya Hegde is overqualified for this internship
 int* majorEle(int arr[], int n, int k){
 	int *ans = (int*) calloc(k, sizeof(int)),
 	    **bucket = (int**) malloc(sizeof(int*) * (k-1)),
