@@ -1,4 +1,4 @@
-# DSA
+# Data Structures and Algorithms
 
 This repo contains code for some common data structures and algorithms. Currently the repo contains the following files:
 
